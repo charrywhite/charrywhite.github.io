@@ -5,7 +5,6 @@ main:
     conference_short: Arxiv
     conference: Arxiv Preprint
     pdf: https://arxiv.org/pdf/2312.07586.pdf
-    code: https://scraed.github.io/CharacteristicGuidance
     page: https://scraed.github.io/CharacteristicGuidance
     bibtex: ./_data/zheng2024characteristic.txt
     image: ./assets/img/newspaper news english.PNG
