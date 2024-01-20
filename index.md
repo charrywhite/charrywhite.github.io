@@ -8,9 +8,7 @@ I am currently pursuing my Ph.D. in a joint program between the [Department of M
 
 ## Research Interests
 
-I'm interested in bridging artificial intelligence (AI) with non-equilibrium physics, emphasizing both the insights from physics and mathematical solidity. I specialize in designing AI models for non-equilibrium physics systems, focusing on models that provide distinct physical insights and enhance predictive performance. Furthermore, I'm particularly interested in how insights from non-equilibrium physics can enhance generative AI models, particularly those grounded in physics such as diffusion models. My aim is to significantly improve understanding and predictive power in both the fields of AI and physics. 
-
-My current research includes:
+I'm interested in bridging artificial intelligence (AI) with non-equilibrium physics, emphasizing both the insights from physics and mathematical solidity. My current research includes:
 
 - **Physics in Generative Modeling:** how physics knowledge helps diffusion model and image generation
 - **Non-Equilibrium Physics:** how data-driven approach helps models for kinetic theory, rarefied gas dynamics, shock waves, and light scattering 
