@@ -1,11 +1,15 @@
 main:
 
-  - title: Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: Characteristic Guidance Non-linear Correction for Diffusion Model at Large Guidance Scale
+    authors: <strong>Candi Zheng*</strong>, Yuan Lan (*Corresponding authors)
+    conference_short: Arxiv
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2312.07586.pdf
+    code: https://scraed.github.io/CharacteristicGuidance
+    page: https://scraed.github.io/CharacteristicGuidance
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/1girl_handstand_sportswear_gym.jpg
+    notes: Preprint
+
+
+
