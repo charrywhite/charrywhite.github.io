@@ -16,4 +16,4 @@ My research interests lie in the intersection of artificial intelligence (AI) an
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
