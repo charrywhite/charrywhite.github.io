@@ -7,6 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2312.07586.pdf
     code: https://scraed.github.io/CharacteristicGuidance
     page: https://scraed.github.io/CharacteristicGuidance
-    bibtex: ./_data/zheng2024characteristic.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:RLQSTNq3bQcJ:scholar.google.com/&output=citation&scisdr=ClF70ToDEJ_4yQZVvi4:AFWwaeYAAAAAZatTpi5zgsrBFWKdSAUD_dnERRM&scisig=AFWwaeYAAAAAZatTpiXTuyTnVQBCE2oRSCxwk1Y&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/1girl_handstand_sportswear_gym.jpg
     notes: Preprint
