@@ -11,4 +11,12 @@ main:
     notes: Preprint
 
 
+  - title: Phase Transition in Extended Thermodynamics Triggers Sub-shocks
+    authors: <strong>Candi Zheng*</strong>, Yang Wang, Shiyi Chen (*Corresponding authors)
+    conference_short: Arxiv
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2304.10742.pdf
+    bibtex: ./_data/zheng2024characteristic.txt
+    image: ./assets/img/PhaseDiagram.PNG
+    notes: Preprint
 
