@@ -1,7 +1,8 @@
 main:
 
-  - title: Characteristic Guidance Non-linear Correction for Diffusion Model at Large Guidance Scale
+  - title: Characteristic Guidance':' Non-linear Correction for Diffusion Model at Large Guidance Scale
     authors: <strong>Candi Zheng*</strong>, Yuan Lan (*Corresponding authors)
+    year: 2023
     conference_short: Arxiv
     conference: Arxiv Preprint
     pdf: https://arxiv.org/pdf/2312.07586
