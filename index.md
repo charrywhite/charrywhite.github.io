@@ -13,11 +13,6 @@ I am a Ph.D. student at the department of mathematics, Hong Kong University of S
 
 My research interests lie in the intersection of artificial intelligence (AI) and non-equilibrium physics. I specialize in designing AI models for non-equilibrium physics systems, focusing on models that provide distinct physical insights and enhance predictive performance. Furthermore, I'm particularly interested in how insights from non-equilibrium physics can enhance generative AI models, particularly those grounded in physics such as diffusion models. My aim is to significantly improve understanding and predictive power in both the fields of AI and physics.
 
-## News
-
-- **[Feb. 2020]** Our paper about ...
-- **[Sept. 2019]** Our paper about ...
-- **[Mar. 2019]** Our paper about ...
 
 {% include_relative _includes/publications.md %}
 
