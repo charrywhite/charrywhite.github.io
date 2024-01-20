@@ -30,3 +30,9 @@ main:
     conference: Physical Review E
     pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.015104
     image: ./assets/img/PaperSpectra.PNG
+
+  - title: The prediction of a family group of two-dimensional node-line semimetals
+    authors: Jin, Yuan-Jun, Rui Wang, Jin-Zhu Zhao, Yong-Ping Du, <strong>Can-Di Zheng*</strong>, Li-Yong Gan, Jun-Feng Liu, Hu Xu*, and S. Y. Tong* (*Corresponding authors)
+    conference_short: Nanoscale
+    conference: Nanoscale
+    pdf: https://pubs.rsc.org/en/content/articlelanding/2017/nr/c7nr03520a/unauth
