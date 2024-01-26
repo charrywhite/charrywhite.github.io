@@ -16,9 +16,14 @@ I'm interested in bridging artificial intelligence (AI) with non-equilibrium phy
 
 
 ## News
+### Characteristic Guidance Web UI
 <img src="https://github.com/scraed/CharacteristicGuidance/blob/master/static/images/1girl%2C%20running%2C%20mountain%2C%20grass.jpg?raw=true" width="400" />
 
 We are excited to share our publicly available extension, the [Characteristic Guidance Web UI](https://github.com/scraed/CharacteristicGuidanceWebUI), which provides large CFG (Cassifier-Free Guidance) scale correction for the Stable Diffusion web UI (AUTOMATIC1111).
+
+### Moment Gauge
+Try our python library [Moment Gauge](https://github.com/scraed/TheMomentGauge), designed to facilitate the implementation of numerical solvers using the maximal entropy moment method. Built on the JAX framework, Moment Gauge aims to provide reusable code for researchers and developers working with rarefied gas dynamics and other applications of the maximal entropy moment method.
+
 
 {% include_relative _includes/publications.md %}
 
