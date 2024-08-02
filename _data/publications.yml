@@ -1,7 +1,7 @@
 main:
 
   - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2023)'
-    authors: <strong>Candi Zheng*</strong>, Yuan Lan (*Corresponding authors)
+    authors: <strong>Candi Zheng*^</strong>, Yuan Lan^ (*Corresponding authors, ^Equal contribution)
     year: 2024
     conference_short: ICML
     conference: ICML 2024
