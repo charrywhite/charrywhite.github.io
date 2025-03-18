@@ -17,7 +17,7 @@ My research focuses on AI and non-equilibrium physics, particularly generative m
 
 ## News
 ### LanPaint
-<img src="https://raw.githubusercontent.com/scraed/LanPaint/refs/heads/master/examples/InpaintChara_07.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/scraed/LanPaint/refs/heads/master/examples/InpaintChara_07.jpg" width="600" />
 
 We are excited to share our publicly available extension, the [LanPaint](https://github.com/scraed/LanPaint), which provides high quality training free inpaint ability for every stable diffusion model.
 
