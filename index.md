@@ -10,12 +10,17 @@ I am currently pursuing my Ph.D. in a joint program between the [Department of M
 
 My research focuses on AI and non-equilibrium physics, particularly generative modeling and kinetic theory, with an emphasis on physics insights and mathematical solidity.
 
-- **Generative Diffusion Model:** How does physics knowledge enhance image generation quality and control in diffusion models?
-- **Non-Equilibrium Physics:** how does AI help modeling better constitutive relations for kinetic theory, rarefied gas dynamics, shock waves, and light scattering?
+- **Generative Diffusion Model:** Enhance image generation quality and control ability in diffusion models.
+- **Non-Equilibrium Physics:** More accurate AI-based constitutive relations for kinetic theory, rarefied gas dynamics, shock waves, and light scattering.
 
 
 
 ## News
+### LanPaint
+<img src="https://github.com/scraed/LanPaint/blob/master/examples/InpaintChara_07.jpg" width="400" />
+
+We are excited to share our publicly available extension, the [LanPaint](https://github.com/scraed/LanPaint), which provides high quality training free inpaint ability for every stable diffusion model.
+
 ### Characteristic Guidance Web UI
 <img src="https://github.com/scraed/CharacteristicGuidance/blob/master/static/images/1girl%2C%20running%2C%20mountain%2C%20grass.jpg?raw=true" width="400" />
 

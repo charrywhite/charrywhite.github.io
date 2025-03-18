@@ -1,5 +1,14 @@
 main:
 
+  - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2024)'
+    authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
+    year: 2024
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2502.03491
+    page: https://scraed.github.io/LanPaint
+    image: https://github.com/scraed/LanPaint/blob/master/examples/InpaintChara_06.jpg
+
   - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2023)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^ (*Corresponding authors, ^Equal contribution)
     year: 2024
