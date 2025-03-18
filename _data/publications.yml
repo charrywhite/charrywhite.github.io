@@ -1,6 +1,6 @@
 main:
 
-  - title: 'Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale (2024)'
+  - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
     year: 2024
     conference_short: Arxiv
