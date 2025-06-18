@@ -29,7 +29,7 @@ Try our python & JAX library [Moment Gauge](https://github.com/scraed/TheMomentG
 
 
 ## Blog Posts
-Check my [Blog Posts](https://github.com/scraed/scraedBlog) about diffusion model theory.
+Check my [Blog Posts](https://scraed.github.io/scraedBlog/) about diffusion model theory.
 
 {% include_relative _includes/publications.md %}
 
