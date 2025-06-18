@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a post doc research at Hong Kong University of Science and Technology (HKUST). I received my Ph.D. in a joint program between the [Department of Mathematics](https://www.math.hkust.edu.hk/) at Hong Kong University of Science and Technology (HKUST) and the [Department of Mechanics and Aerospace Engineering](https://mae.sustech.edu.cn/en/) at the Southern University of Science and Technology (SUSTech), superivsed by Professor [Yang Wang](https://seng.hkust.edu.hk/about/people/faculty/yang-wang) and Professor [Shiyi Chen](https://www.sustech.edu.cn/en/faculties/english-chen-shiyi.html). My academic background includes a B.S. in Physics from SUSTech and a pure math Ph.D. qualification from HKUST. 
+I am currently a post doc researcher at Hong Kong University of Science and Technology (HKUST). I received my Ph.D. in a joint program between the [Department of Mathematics](https://www.math.hkust.edu.hk/) at Hong Kong University of Science and Technology (HKUST) and the [Department of Mechanics and Aerospace Engineering](https://mae.sustech.edu.cn/en/) at the Southern University of Science and Technology (SUSTech), superivsed by Professor [Yang Wang](https://seng.hkust.edu.hk/about/people/faculty/yang-wang) and Professor [Shiyi Chen](https://www.sustech.edu.cn/en/faculties/english-chen-shiyi.html). My academic background includes a B.S. in Physics from SUSTech and a pure math Ph.D. qualification from HKUST. 
 
 ## Research Interests
 
@@ -12,8 +12,6 @@ My research focuses on AI and non-equilibrium physics, particularly generative m
 
 - **Generative Diffusion Model:** Enhance image generation quality and control ability in diffusion models.
 - **Non-Equilibrium Physics:** More accurate AI-based constitutive relations for kinetic theory, rarefied gas dynamics, shock waves, and light scattering.
-
-
 
 ## News
 ### LanPaint
@@ -29,6 +27,9 @@ We are excited to share our publicly available extension, the [Characteristic Gu
 ### Moment Gauge
 Try our python & JAX library [Moment Gauge](https://github.com/scraed/TheMomentGauge), designed to facilitate the implementation of numerical solvers using the maximal entropy moment method. Built on the JAX framework, Moment Gauge aims to provide reusable code for researchers and developers working with rarefied gas dynamics and other applications of the maximal entropy moment method.
 
+
+## Blog Posts
+Check my [Blog Posts](https://github.com/scraed/scraedBlog) about diffusion model theory.
 
 {% include_relative _includes/publications.md %}
 
