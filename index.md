@@ -13,7 +13,7 @@ My research centers on generative diffusion models, with a focus on developing m
 
 - **Model-Agnostic Editing**: Developing universal image editing techniques applicable to diffusion models with varying architectures, eliminating the need for retraining. (Ongoing)
 - **Training-Free Fine-Tuning**: Creating methods to enable diffusion models to generate new content based on a small set of reference images without requiring training or fine-tuning. (Ongoing)
-- **Model-Agnostic Inpainting**: Designing training-free, model-agnostic inpainting and conditional sampling methods. See our work at [LanPaint](https://github.com/scraed/LanPaint).
+- **Model-Agnostic Inpainting**: Designing model-agnostic inpainting and conditional sampling methods universally applicable to various diffusion architectures. See our work at [LanPaint](https://github.com/scraed/LanPaint).
 - **Guidance Methods**: Improving generation quality and prompt adherence by integrating multiple diffusion models in a mathematically solid and natural manner. Explore our work at [Characteristic Guidance Web UI](https://github.com/scraed/CharacteristicGuidanceWebUI).
 
 Additionally, I specialize in non-equilibrium physics, with expertise in kinetic theory and rarefied gas dynamics.
