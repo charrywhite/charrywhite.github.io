@@ -18,6 +18,11 @@ My research centers on generative diffusion models, with a focus on developing m
 
 Additionally, I specialize in non-equilibrium physics, with expertise in kinetic theory and rarefied gas dynamics.
 
+## Blog Posts
+Check my [Blog Posts](https://scraed.github.io/scraedBlog/) about diffusion model theory.
+
+{% include_relative _includes/publications.md %}
+
 ## News
 ### LanPaint
 <img src="https://raw.githubusercontent.com/scraed/LanPaint/refs/heads/master/examples/InpaintChara_07.jpg" width="600" />
@@ -33,9 +38,6 @@ We are excited to share our publicly available extension, the [Characteristic Gu
 Try our python & JAX library [Moment Gauge](https://github.com/scraed/TheMomentGauge), designed to facilitate the implementation of numerical solvers using the maximal entropy moment method. Built on the JAX framework, Moment Gauge aims to provide reusable code for researchers and developers working with rarefied gas dynamics and other applications of the maximal entropy moment method.
 
 
-## Blog Posts
-Check my [Blog Posts](https://scraed.github.io/scraedBlog/) about diffusion model theory.
 
-{% include_relative _includes/publications.md %}
 
 
