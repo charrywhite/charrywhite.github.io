@@ -1,29 +1,29 @@
 # Basic Information 
-title: Candi Zheng
-position: Post Doc Researcher
-affiliation: "Hong Kong University of Science and Technology"
-email: czhengac@connect.ust.hk
+title: Yuan Lan 
+position: Researcher
+affiliation: "Huawei Hong Kong Theory Lab"
+email: ylanaa@connect.ust.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Candi Zheng
-description: The academic personal homepage of Candi Zheng.
-canonical: https://scraed.github.io/
+keywords: Yuan Lan 
+description: The academic personal homepage of Yuan Lan.
+canonical: https://charrywhite.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=akzAFKcAAAAJ&hl=en
-cv_link: assets/files/CandiZhengCV2025.pdf
-github_link: https://github.com/scraed
-blog_link: https://scraed.github.io/scraedBlog/
+google_scholar: https://scholar.google.com/citations?user=TsxjWIUAAAAJ&hl=en
+# cv_link: assets/files/CandiZhengCV2025.pdf
+github_link: https://github.com/charrywhite
+# blog_link: https://scraed.github.io/scraedBlog/
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/MyPhoto.png
-favicon: ./assets/img/witchbearlogo.png
-favicon_dark: ./assets/img/witchbearlogo.png
+avatar: ./assets/img/photo.jpg
+# favicon: ./assets/img/witchbearlogo.png
+# favicon_dark: ./assets/img/witchbearlogo.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

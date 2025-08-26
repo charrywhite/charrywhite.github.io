@@ -4,38 +4,84 @@ layout: homepage
 
 ## About Me
 
-I am currently a post doc researcher at Hong Kong University of Science and Technology (HKUST). I received my Ph.D. in a joint program between the [Department of Mathematics](https://www.math.hkust.edu.hk/) at Hong Kong University of Science and Technology (HKUST) and the [Department of Mechanics and Aerospace Engineering](https://mae.sustech.edu.cn/en/) at the Southern University of Science and Technology (SUSTech), superivsed by Professor [Yang Wang](https://seng.hkust.edu.hk/about/people/faculty/yang-wang) and Professor [Shiyi Chen](https://www.sustech.edu.cn/en/faculties/english-chen-shiyi.html). My academic background includes a B.S. in Physics from SUSTech and a pure math Ph.D. qualification from HKUST. 
+**Yuan Lan 蓝缘** is currently a Researcher at Huawei Theory Lab in Hong Kong. Prior to joining Huawei in March 2023, she completed her Ph.D. in Mathematics at the Hong Kong University of Science and Technology (HKUST) under the guidance of Prof. Yang Xiang. Her doctoral research focused on designing physics-inspired deep learning algorithms for advanced image processing applications, such as image segmentation and compression.
 
+Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision, with a particular interest in developing efficient, training-free algorithms for image editing and physics-inspired computational methods. She received her B.S. in Mathematics from Wuhan University.
 
 ## Research Interests
 
-My research centers on generative diffusion models, with a focus on developing model-agnostic and controllable sampling methods grounded in robust mathematical frameworks and physics-inspired insights. My key areas of interest include:
+- **Generative Diffusion Models**: Developing training-free methods for generative diffusion models, enabling universal image editing, inpainting, and conditional sampling across diverse model architectures.
+- **Image Processing**: Leveraging physics-inspired approaches to solve challenges in image compression and segmentation.
 
-- **Model-Agnostic Editing**: Developing universal image editing techniques applicable to diffusion models with varying architectures, eliminating the need for retraining. (Ongoing)
-- **Training-Free Fine-Tuning**: Creating methods to enable diffusion models to generate new content based on a small set of reference images without requiring training or fine-tuning. (Ongoing)
-- **Model-Agnostic Inpainting**: Designing model-agnostic inpainting and conditional sampling methods universally applicable to various diffusion architectures. See our work at [LanPaint](https://github.com/scraed/LanPaint).
-- **Guidance Methods**: Improving generation quality and prompt adherence by integrating multiple diffusion models in a mathematically solid and natural manner. Explore our work at [Characteristic Guidance Web UI](https://github.com/scraed/CharacteristicGuidanceWebUI).
 
-Additionally, I specialize in non-equilibrium physics, with expertise in kinetic theory and rarefied gas dynamics.
 
-## Blog Posts
-Check my [Blog Posts](https://scraed.github.io/scraedBlog/) about diffusion model theory.
+## Publications
 
-{% include_relative _includes/publications.md %}
+1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
+   Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>, Yang Wang  
+   <em>arXiv preprint arXiv:2502.03491</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [arXiv](https://arxiv.org/abs/2502.03491)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/LanPaint)</span>
 
-## News
-### LanPaint
-<img src="https://raw.githubusercontent.com/scraed/LanPaint/refs/heads/master/examples/InpaintChara_07.jpg" width="600" />
+2. **Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale**  
+   Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>  
+   <em>Proceedings of the 41st International Conference on Machine Learning (ICML), PMLR 235:61386-61412, 2024</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [ICML](https://proceedings.mlr.press/v235/zheng24f.html)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
 
-We are excited to share our publicly available extension, the [LanPaint](https://github.com/scraed/LanPaint), which provides high quality inpaint ability that is universally applicable to Stable Diffusion, FLUX, and HiDream models.
+3. **ElasticLaneNet: A Geometry-Flexible Approach for Lane Detection**  
+   Yaxin Feng, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
+   <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [WACV](https://openaccess.thecvf.com/content/WACV2025/papers/Feng_ElasticLaneNet_An_Efficient_Geometry-Flexible_Lane_Detection_Framework_WACV_2025_paper.pdf)</span>
 
-### Characteristic Guidance Web UI
-<img src="https://github.com/scraed/CharacteristicGuidance/blob/master/static/images/1girl%2C%20running%2C%20mountain%2C%20grass.jpg?raw=true" width="400" />
+4. **GOLLIC: Learning Global Context beyond Patches for Lossless High-Resolution Image Compression**  
+   **Yuan Lan**, Liang Qin, Zhaoyi Sun, Yang Xiang&#42;, Jie Sun&#42;  
+   <em>arXiv:2210.03301, 2022, Submitted</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [arXiv](https://arxiv.org/abs/2210.03301)</span>
 
-We are excited to share our publicly available extension, the [Characteristic Guidance Web UI](https://github.com/scraed/CharacteristicGuidanceWebUI), which provides large CFG (Cassifier-Free Guidance) scale correction for the Stable Diffusion web UI (AUTOMATIC1111).
+5. **DOSnet as a Non-Black-Box PDE Solver: When Deep Learning Meets Operator Splitting**  
+   **Yuan Lan**, Zhen Li&#42;, Jie Sun&#42;, Yang Xiang&#42;  
+   <em>Journal of Computational Physics, 491, 112343, 2023</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004382)</span>
 
-### Moment Gauge
-Try our python & JAX library [Moment Gauge](https://github.com/scraed/TheMomentGauge), designed to facilitate the implementation of numerical solvers using the maximal entropy moment method. Built on the JAX framework, Moment Gauge aims to provide reusable code for researchers and developers working with rarefied gas dynamics and other applications of the maximal entropy moment method.
+6. **Feature Flow Regularization: Improving Structured Sparsity in Deep Neural Networks**  
+   Yue Wu, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
+   <em>Neural Networks, 161, 598-613, 2023</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S089360802300076X)</span>
+
+7. **An Elastic Interaction Based Loss Function for Medical Image Segmentation**  
+   **Yuan Lan**, Yang Xiang, Luchan Zhang*  
+   <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2020</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_73)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/charrywhite/elastic_interaction_based_loss)</span>
+
+*Note: *Corresponding authors, <sup style="font-size: 0.7em;">∧</sup>Equal contribution*
+
+## Awards and Scholarships
+
+- **HKUST RedBird Academic Excellence Awards**, HKUST (2021-2022)
+- **Huawei PHD Fellowship**, Huawei Hong Kong (2019-2022)
+- **Third Class Din-Yu Hsieh Best Teaching Assistant Award**, HKUST (2019-2020)
+- **Postgraduate Scholarship (PGS)**, HKUST (2018-2019)
+
+## Professional Activities
+
+**Talks:**
+- ICIAM 2023: DOSnet as a Non-Black-Box PDE Solver: When Deep Learning Meets Operator Splitting  
+  *Tokyo, Japan, Aug 2023*
+- MICCAI Oral: An Elastic Interaction Based Loss Function For Medical Image Segmentation  
+  *Lima, Peru (online), Oct 2020*
+- ICIAM 2019: Numerical Method for the Grain Boundary Dynamics Models with Long-range Elastic Interaction  
+  *Valencia, Spain, Aug 2019*
+
+**Teaching:**
+- TA Math 2011: Introduction to Multivariable Calculus (Spring 2020)
+- TA Math 1013: Calculus IB (Fall 2019)
+- TA Math 1014: Calculus II (Spring 2019)
+
+## Contact
+
+- **Email**: ylanaa@connect.ust.hk
 
 
 
