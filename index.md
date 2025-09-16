@@ -59,8 +59,12 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 
 ## Awards and Scholarships
 
+- **Huawei APRI Starlight Award**, Huawei (2024)
+- **Huawei President's Award of APRI 2024**, Huawei (2024)
+- **Huawei Innovation Pioneer, First Prize**, Huawei (2024H1)
 - **HKUST RedBird Academic Excellence Awards**, HKUST (2021-2022)
 - **Huawei PHD Fellowship**, Huawei Hong Kong (2019-2022)
+- **Huawei Innovation Pioneer, Second Prize**, Huawei (2020H2)
 - **Third Class Din-Yu Hsieh Best Teaching Assistant Award**, HKUST (2019-2020)
 - **Postgraduate Scholarship (PGS)**, HKUST (2018-2019)
 
