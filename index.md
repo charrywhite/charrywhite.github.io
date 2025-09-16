@@ -6,7 +6,7 @@ layout: homepage
 
 **Yuan Lan 蓝缘** is currently a Researcher at Huawei Theory Lab in Hong Kong. Prior to joining Huawei in March 2023, she completed her Ph.D. in Mathematics at the Hong Kong University of Science and Technology (HKUST) under the guidance of Prof. Yang Xiang. She received her B.S. in Mathematics from Wuhan University in 2018.
 
-Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision, with a particular interest in developing efficient, training-free algorithms for image generation、editing and physics-inspired computational methods. 
+Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision, with a particular interest in developing efficient, training-free algorithms for image generation/editing and physics-inspired computational methods. 
 
 ## Research Interests
 
