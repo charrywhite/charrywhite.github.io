@@ -20,7 +20,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
    Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>, Yang Wang  
    <em>Transactions on Machine Learning Research (TMLR), 2025</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [arXiv](https://arxiv.org/abs/2502.03491)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [TMLR](https://arxiv.org/abs/2502.03491)</span>
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/LanPaint)</span>
 
 2. **Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale**  
