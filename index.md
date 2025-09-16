@@ -69,7 +69,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 
 ## Student Entrepreneurship
 
-**Founder, LuoBiBan (珞毕办)** | Wuhan University | 2016  
+- **Founder, LuoBiBan (珞毕办)** | Wuhan University | 2016  
 Founded and launched LuoBiBan, a photographic platform connecting professional photographers with graduates for commemorative photography services. The platform operated as a marketplace similar to Uber, facilitating connections between photographers and students while charging agency fees. Successfully developed and sold exclusive WHU autograph albums, with half of the initial stock sold out at launch. [Featured in WHU News](https://en.whu.edu.cn/info/1050/2404.htm)
 
 ## Professional Activities
