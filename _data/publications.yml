@@ -3,8 +3,8 @@ main:
   - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2024)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
     year: 2024
-    conference_short: Arxiv
-    conference: Arxiv
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research (TMLR)
     pdf: https://arxiv.org/abs/2502.03491
     page: https://scraed.github.io/LanPaint
     image: ./assets/img/lanpaintmaxima.JPG
