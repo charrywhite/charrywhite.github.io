@@ -14,7 +14,6 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 - **Image Processing**: Leveraging physics-inspired approaches to solve challenges in image compression and segmentation.
 
 
-
 ## Publications
 
 1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
@@ -67,6 +66,11 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 - **Huawei Innovation Pioneer, Second Prize**, Huawei (2020H2)
 - **Third Class Din-Yu Hsieh Best Teaching Assistant Award**, HKUST (2019-2020)
 - **Postgraduate Scholarship (PGS)**, HKUST (2018-2019)
+
+## Student Entrepreneurship
+
+**Founder, LuoBiBan (珞毕办)** | Wuhan University | 2016  
+Founded and launched LuoBiBan, a photographic platform connecting professional photographers with graduates for commemorative photography services. The platform operated as a marketplace similar to Uber, facilitating connections between photographers and students while charging agency fees. Successfully developed and sold exclusive WHU autograph albums, with half of the initial stock sold out at launch. [Featured in WHU News](https://en.whu.edu.cn/info/1050/2404.htm)
 
 ## Professional Activities
 
