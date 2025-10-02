@@ -70,7 +70,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 ## Student Entrepreneurship
 🚀 **Founder, LuoBiBan (珞毕办), Wuhan University, 2016** 
 
-Founded and launched LuoBiBan, a photographic platform connecting professional photographers with graduates for commemorative photography services. The platform operated as a marketplace similar to Uber, facilitating connections between photographers and students while charging agency fees. Successfully developed and sold exclusive WHU autograph albums. Achieved monthly revenue of 35,000 RMB during peak operation. <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Featured in WHU News](https://en.whu.edu.cn/info/1050/2404.htm)
+Founded and launched LuoBiBan, a photographic platform connecting professional photographers with graduates for commemorative photography services. The platform operated as a marketplace similar to Uber, facilitating connections between photographers and students while charging agency fees. Successfully developed and sold exclusive WHU autograph albums.  <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Featured in WHU News](https://en.whu.edu.cn/info/1050/2404.htm)
 
 ## Professional Activities
 **Talks:**
@@ -80,6 +80,7 @@ Founded and launched LuoBiBan, a photographic platform connecting professional p
   *Lima, Peru (online), Oct 2020*
 - ICIAM 2019: Numerical Method for the Grain Boundary Dynamics Models with Long-range Elastic Interaction  
   *Valencia, Spain, Aug 2019*
+  
 **Teaching:**
 - TA Math 2011: Introduction to Multivariable Calculus (Spring 2020)
 - TA Math 1013: Calculus IB (Fall 2019)
