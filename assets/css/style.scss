@@ -2,3 +2,58 @@
 ---
 
 @import "minimal-light";
+
+body {
+  background: radial-gradient(circle at 25% 15%, #123842 0%, #07141b 55%, #020609 100%);
+  color: #edf6ff;
+  min-height: 100vh;
+}
+
+strong,
+b {
+  color: #8ff2c2;
+  font-weight: 600;
+}
+
+section {
+  background-color: transparent;
+  border: none;
+}
+
+strong,
+b,
+papertitle,
+education {
+  color: #9cd8ff;
+}
+
+.zen-cichlid-widget {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.zen-cichlid-widget #zen-cichlid-tank-root {
+  width: 100%;
+  max-width: 432px;
+}
+
+@media (min-width: 961px) {
+  .wrapper {
+    width: 1180px;
+    padding-left: 10px;
+  }
+
+  header,
+  footer {
+    width: 280px;
+  }
+
+  section {
+    width: calc(100% - 360px);
+    margin-left: 340px;
+    padding-left: 2rem;
+    float: none;
+  }
+}
