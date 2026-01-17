@@ -52,7 +52,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    **Yuan Lan**, Yang Xiang, Luchan Zhang*  
    <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2020</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_73)</span>
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/charrywhite/elastic_interaction_based_loss)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/charrywhite/elastic_interaction_based_loss)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/charrywhite/elastic_interaction_based_loss?style=social)](https://github.com/charrywhite/elastic_interaction_based_loss)</span>
 
 *Note: *Corresponding authors, <sup style="font-size: 0.7em;">∧</sup>Equal contribution*
 
