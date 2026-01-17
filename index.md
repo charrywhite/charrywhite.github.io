@@ -26,7 +26,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>  
    <em>Proceedings of the 41st International Conference on Machine Learning (ICML), PMLR 235:61386-61412, 2024</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [ICML](https://proceedings.mlr.press/v235/zheng24f.html)</span>
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/CharacteristicGuidanceWebUI)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/scraed/CharacteristicGuidanceWebUI?style=social)](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
 
 3. **ElasticLaneNet: A Geometry-Flexible Approach for Lane Detection**  
    Yaxin Feng, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
