@@ -14,6 +14,21 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 - **Image Processing**: Leveraging physics-inspired approaches to solve challenges in image compression and segmentation.
 
 
+## Blog Posts
+
+1. **Rethinking the Diffusion Model from a Langevin Perspective**  
+   Candi Zheng, **Yuan Lan**  
+   <em>ICLR 2026 Blogpost Track</em>  
+   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333;">📝 [Blog](https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/)</span>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{zheng2026rethinking,
+  title={Rethinking the Diffusion Model from a Langevin Perspective},
+  author={Candi Zheng and Yuan Lan},
+  booktitle={The Blogpost Track at ICLR 2026},
+  year={2026},
+  url={https://openreview.net/forum?id=MLAN3xr4S7}
+}</pre>
+
 ## Publications
 
 1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
