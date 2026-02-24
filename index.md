@@ -71,7 +71,16 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 4. **GOLLIC: Learning Global Context beyond Patches for Lossless High-Resolution Image Compression**  
    **Yuan Lan**, Liang Qin, Zhaoyi Sun, Yang Xiang&#42;, Jie Sun&#42;  
    <em>arXiv:2210.03301, 2022, Submitted</em>  
-   <a href="https://arxiv.org/abs/2210.03301" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 arXiv</a>
+   <a href="https://arxiv.org/abs/2210.03301" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 arXiv</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@misc{lan2022golliclearningglobalcontext,
+  title={GOLLIC: Learning Global Context beyond Patches for Lossless High-Resolution Image Compression},
+  author={Yuan Lan and Liang Qin and Zhaoyi Sun and Yang Xiang and Jie Sun},
+  year={2022},
+  eprint={2210.03301},
+  archivePrefix={arXiv},
+  primaryClass={eess.IV},
+  url={https://arxiv.org/abs/2210.03301}
+}</pre>
 
 5. **DOSnet as a Non-Black-Box PDE Solver: When Deep Learning Meets Operator Splitting**  
    **Yuan Lan**, Zhen Li&#42;, Jie Sun&#42;, Yang Xiang&#42;  
