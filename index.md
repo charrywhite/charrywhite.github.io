@@ -20,7 +20,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    Candi Zheng, **Yuan Lan**  
    <em>ICLR 2026 Blogpost Track</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄[ICLR](https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{zheng2026rethinking,
   title={Rethinking the Diffusion Model from a Langevin Perspective},
   author={Candi Zheng and Yuan Lan},
@@ -36,7 +36,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    <em>Transactions on Machine Learning Research (TMLR), 2025</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [TMLR](https://openreview.net/pdf?id=JPC8JyOUSW)</span>
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/LanPaint)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/scraed/LanPaint?style=social)](https://github.com/scraed/LanPaint)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@article{zheng2025lanpaint,
   title={LanPaint: Training-Free Diffusion Inpainting with Asymptotically Exact and Fast Conditional Sampling},
   author={Candi Zheng and Yuan Lan and Yang Wang},
@@ -51,7 +51,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    <em>Proceedings of the 41st International Conference on Machine Learning (ICML), PMLR 235:61386-61412, 2024</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [ICML](https://proceedings.mlr.press/v235/zheng24f.html)</span>
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/CharacteristicGuidanceWebUI)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/scraed/CharacteristicGuidanceWebUI?style=social)](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{zheng2024characteristic,
   title={Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale},
   author={Candi Zheng and Yuan Lan},
@@ -64,7 +64,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    Yaxin Feng, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
    <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [WACV](https://openaccess.thecvf.com/content/WACV2025/papers/Feng_ElasticLaneNet_An_Efficient_Geometry-Flexible_Lane_Detection_Framework_WACV_2025_paper.pdf)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{10943462,
   author={Feng, Yaxin and Lan, Yuan and Zhang, Luchan and Xiang, Yang},
   booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
@@ -83,7 +83,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
    **Yuan Lan**, Zhen Li&#42;, Jie Sun&#42;, Yang Xiang&#42;  
    <em>Journal of Computational Physics, 491, 112343, 2023</em>  
    <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004382)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@article{LAN2023112343,
   title={DOSnet as a non-black-box PDE solver: When deep learning meets operator splitting},
   journal={Journal of Computational Physics},
