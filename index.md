@@ -19,8 +19,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 1. **Rethinking the Diffusion Model from a Langevin Perspective**  
    Candi Zheng, **Yuan Lan**  
    <em>ICLR 2026 Blogpost Track</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄[ICLR](https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <a href="https://iclr-blogposts.github.io/2026/blog/2026/rethinking-diffusion-langevin/" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 Blog</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{zheng2026rethinking,
   title={Rethinking the Diffusion Model from a Langevin Perspective},
   author={Candi Zheng and Yuan Lan},
@@ -34,9 +33,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
    Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>, Yang Wang  
    <em>Transactions on Machine Learning Research (TMLR), 2025</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [TMLR](https://openreview.net/pdf?id=JPC8JyOUSW)</span>
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/LanPaint)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/scraed/LanPaint?style=social)](https://github.com/scraed/LanPaint)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <a href="https://openreview.net/pdf?id=JPC8JyOUSW" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 TMLR</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button><a href="https://github.com/scraed/LanPaint" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">🐙 Code</a> <span style="display:inline-block;vertical-align:middle;">[![](https://img.shields.io/github/stars/scraed/LanPaint?style=social)](https://github.com/scraed/LanPaint)</span>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@article{zheng2025lanpaint,
   title={LanPaint: Training-Free Diffusion Inpainting with Asymptotically Exact and Fast Conditional Sampling},
   author={Candi Zheng and Yuan Lan and Yang Wang},
@@ -49,9 +46,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 2. **Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale**  
    Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>  
    <em>Proceedings of the 41st International Conference on Machine Learning (ICML), PMLR 235:61386-61412, 2024</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [ICML](https://proceedings.mlr.press/v235/zheng24f.html)</span>
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/scraed/CharacteristicGuidanceWebUI)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/scraed/CharacteristicGuidanceWebUI?style=social)](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <a href="https://proceedings.mlr.press/v235/zheng24f.html" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 ICML</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button><a href="https://github.com/scraed/CharacteristicGuidanceWebUI" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">🐙 Code</a> <span style="display:inline-block;vertical-align:middle;">[![](https://img.shields.io/github/stars/scraed/CharacteristicGuidanceWebUI?style=social)](https://github.com/scraed/CharacteristicGuidanceWebUI)</span>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{zheng2024characteristic,
   title={Characteristic Guidance: Non-linear Correction for Diffusion Model at Large Guidance Scale},
   author={Candi Zheng and Yuan Lan},
@@ -63,8 +58,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 3. **ElasticLaneNet: A Geometry-Flexible Approach for Lane Detection**  
    Yaxin Feng, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
    <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [WACV](https://openaccess.thecvf.com/content/WACV2025/papers/Feng_ElasticLaneNet_An_Efficient_Geometry-Flexible_Lane_Detection_Framework_WACV_2025_paper.pdf)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Feng_ElasticLaneNet_An_Efficient_Geometry-Flexible_Lane_Detection_Framework_WACV_2025_paper.pdf" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 WACV</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@inproceedings{10943462,
   author={Feng, Yaxin and Lan, Yuan and Zhang, Luchan and Xiang, Yang},
   booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
@@ -77,13 +71,12 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 4. **GOLLIC: Learning Global Context beyond Patches for Lossless High-Resolution Image Compression**  
    **Yuan Lan**, Liang Qin, Zhaoyi Sun, Yang Xiang&#42;, Jie Sun&#42;  
    <em>arXiv:2210.03301, 2022, Submitted</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [arXiv](https://arxiv.org/abs/2210.03301)</span>
+   <a href="https://arxiv.org/abs/2210.03301" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 arXiv</a>
 
 5. **DOSnet as a Non-Black-Box PDE Solver: When Deep Learning Meets Operator Splitting**  
    **Yuan Lan**, Zhen Li&#42;, Jie Sun&#42;, Yang Xiang&#42;  
    <em>Journal of Computational Physics, 491, 112343, 2023</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0021999123004382)</span>
-   <button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999123004382" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 Journal</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
    <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@article{LAN2023112343,
   title={DOSnet as a non-black-box PDE solver: When deep learning meets operator splitting},
   journal={Journal of Computational Physics},
@@ -99,13 +92,33 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 6. **Feature Flow Regularization: Improving Structured Sparsity in Deep Neural Networks**  
    Yue Wu, **Yuan Lan**, Luchan Zhang&#42;, Yang Xiang&#42;  
    <em>Neural Networks, 161, 598-613, 2023</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S089360802300076X)</span>
+   <a href="https://www.sciencedirect.com/science/article/abs/pii/S089360802300076X" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 Journal</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>
+   <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@article{WU2023598,
+  title={Feature flow regularization: Improving structured sparsity in deep neural networks},
+  journal={Neural Networks},
+  volume={161},
+  pages={598-613},
+  year={2023},
+  issn={0893-6080},
+  doi={https://doi.org/10.1016/j.neunet.2023.02.013},
+  url={https://www.sciencedirect.com/science/article/pii/S089360802300076X},
+  author={Yue Wu and Yuan Lan and Luchan Zhang and Yang Xiang}
+}</pre>
 
 7. **An Elastic Interaction Based Loss Function for Medical Image Segmentation**  
    **Yuan Lan**, Yang Xiang, Luchan Zhang*  
    <em>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2020</em>  
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #f0f0f0; border-radius: 12px; font-size: 0.8em; color: #333; text-decoration: none;">📄 [MICCAI](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_73)</span>
-   <span style="display: inline-block; margin: 2px 4px; padding: 2px 8px; background-color: #e8f4fd; border-radius: 12px; font-size: 0.8em; color: #0066cc; text-decoration: none;">🐙 [Code](https://github.com/charrywhite/elastic_interaction_based_loss)</span> <span style="display: inline-block; vertical-align: middle;">[![](https://img.shields.io/github/stars/charrywhite/elastic_interaction_based_loss?style=social)](https://github.com/charrywhite/elastic_interaction_based_loss)</span>
+   <a href="https://link.springer.com/chapter/10.1007/978-3-030-59722-1_73" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 MICCAI</a><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button><a href="https://github.com/charrywhite/elastic_interaction_based_loss" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">🐙 Code</a> <span style="display:inline-block;vertical-align:middle;">[![](https://img.shields.io/github/stars/charrywhite/elastic_interaction_based_loss?style=social)](https://github.com/charrywhite/elastic_interaction_based_loss)</span>
+   <pre style="display:none;margin:6px 0 0 0;padding:10px;background:#f6f6f6;border:1px solid #ddd;border-radius:6px;font-size:0.78em;line-height:1.5;white-space:pre-wrap;">@InProceedings{10.1007/978-3-030-59722-1_73,
+  author={Lan, Yuan and Xiang, Yang and Zhang, Luchan},
+  title={An Elastic Interaction-Based Loss Function for Medical Image Segmentation},
+  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2020},
+  year={2020},
+  publisher={Springer International Publishing},
+  address={Cham},
+  pages={755--764},
+  isbn={978-3-030-59722-1}
+}</pre>
 
 *Note: *Corresponding authors, <sup style="font-size: 0.7em;">∧</sup>Equal contribution*
 
@@ -142,8 +155,3 @@ Founded and launched LuoBiBan, a photographic platform connecting professional p
 ## Contact
 
 - **Email**: ylanaa@connect.ust.hk
-
-
-
-
-
