@@ -30,7 +30,7 @@ Dr. Lan's work lies at the intersection of mathematics, AI, and computer vision,
 
 ## Publications
 
-1. **Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference**  
+1. **LanPaint: Training-Free Diffusion Inpainting with Asymptotically Exact and Fast Conditional Sampling**  
    Candi Zheng*<sup style="font-size: 0.6em;">∧</sup>, **Yuan Lan**<sup style="font-size: 0.6em;">∧</sup>, Yang Wang  
    <em>Transactions on Machine Learning Research (TMLR), 2025</em>  
    <a href="https://openreview.net/pdf?id=JPC8JyOUSW" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">📄 TMLR</a><a href="https://github.com/scraed/LanPaint" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;text-decoration:none;cursor:pointer;">🐙 Code</a><span style="display:inline-block;vertical-align:middle;">[![](https://img.shields.io/github/stars/scraed/LanPaint?style=social)](https://github.com/scraed/LanPaint)</span><button onclick="(function(btn){var el=btn.nextElementSibling;el.style.display=el.style.display==='block'?'none':'block';})(this)" style="display:inline-block;margin:2px 4px;padding:2px 8px;background-color:#f0f0f0;border:none;border-radius:12px;font-size:0.8em;font-family:inherit;color:#333;cursor:pointer;">📋 BibTeX</button>

@@ -1,6 +1,6 @@
 main:
 
-  - title: 'Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference (2025)'
+  - title: 'LanPaint: Training-Free Diffusion Inpainting with Asymptotically Exact and Fast Conditional Sampling (2025)'
     authors: <strong>Candi Zheng*^</strong>, Yuan Lan^, Yang Wang (*Corresponding authors, ^Equal contribution)
     year: 2025
     conference_short: TMLR
